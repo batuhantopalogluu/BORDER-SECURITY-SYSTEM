@@ -3,15 +3,16 @@
  
  - The purpose of this project is to monitor terrestrial borders autonomously with sensors and subsystems.
  
-	- Within the scope of the project, 4 different devices were designed. These devices communicate with each other with Wifi over the mesh     network.
+ - Within the scope of the project, 4 different devices were designed. These devices communicate with each other with 
+ Wifi over the mesh metwork.
 	
-	- All Nodes has ESP32 mcu Wifi module for connect to network. 
+ - All Nodes has ESP32 mcu Wifi module for connect to network. 
 	
-	 Devices:
+Devices:
 		
 	 1 - Rooter Node :  
 						
-					 This is device connected to the managament center's network and it acts as a bridge between the sensors and the             		          managament center. In addition, the device has a camera module and a gyroscope sensor to fix the camera angle.
+  	This is device connected to the managament center's network and it acts as a bridge between the sensors and the             		   managament center. In addition, the device has a camera module and a gyroscope sensor to fix the camera angle.
 		
 		   Hardware components:
 					
